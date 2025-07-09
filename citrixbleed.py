@@ -1,4 +1,3 @@
-#!/Users/ralphhorn/.pyenv/versions/dissect-venv/bin/python
 from typing import Iterator, Optional
 from pathlib import Path
 from datetime import datetime
